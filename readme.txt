@@ -40,5 +40,7 @@ Some of the recommended frameworks tools (Using them is optional)
 PHP: Zend, CodeIgniter, WII, Drupal
 Frontend: Bootstrap, jQuery, AngularJS, CSS3, Google Webfonts
 
+If you have any questions or doubts please feel free to email us at codejam@neebtech.com
+
 
 
